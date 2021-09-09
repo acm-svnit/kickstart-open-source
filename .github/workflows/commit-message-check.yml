@@ -26,7 +26,7 @@ jobs:
         uses: gsactions/commit-message-checker@v1
         with:
           pattern: '^[^#].{74}'
-          error: 'The maximum line length of 74 characters is exceeded.'
+          error: 'The maximum line length of 74 characters is exceeded in shortlog or descrription.'
           excludeDescription: 'false' # optional: this excludes the description body of a pull request
           excludeTitle: 'false' # optional: this excludes the title of a pull request
           checkAllCommitMessages: 'true' # optional: this checks all commits associated with a pull request
