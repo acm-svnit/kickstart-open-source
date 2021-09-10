@@ -6,6 +6,8 @@ Open source is a term that originally referred to open source software
 (OSS).Open source software is code that is designed to be publicly
 accessible—anyone can see, modify, and distribute the code as they see fit.
 
+## History of Open-source
+
 The history of open source is the history of the internet. In the 1950s and 1960s researchers developing early internet technologies and telecommunication network protocols relied on an open and collaborative research environment. The Advanced Research Projects Agency Network (ARPANET), which would later become the foundation for the modern internet, encouraged peer review and an open feedback process. User groups shared and built upon one another’s source code. Forums helped facilitate conversation and develop standards for open communication and collaboration. By the time of the birth of the internet in the early 1990s, the values of collaboration, peer review, communication, and openness were written into its foundations.
 
 
